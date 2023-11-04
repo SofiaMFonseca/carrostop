@@ -11,7 +11,6 @@ function Card() {
             <p><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, nisi</i></p>
             <Button />
         </div>
-
     );
 }
 
