@@ -1,3 +1,5 @@
+# Design Figma for the project [here](https://www.figma.com/file/OezHg0lTWJ7FT2LhmCyrSx/Exercicio-Componentes-React)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
